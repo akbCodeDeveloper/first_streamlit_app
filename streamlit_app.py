@@ -7,3 +7,5 @@ streamlit.text('\N{bowl with spoon} Omega 3 & Blueberry Meal' )
 streamlit.text('\N{green salad} Kale , Spinach & Rocket Smoothie')
 streamlit.text('\N{chicken} Hard-Boiled Free-Range Egg')
 streamlit.text('\N{avocado} \N{bread} Avocado Toast')
+
+streamlit.text('\N{banana} \N{strawberry} Build your own fruit smoothie \N{kiwi fruit} \N{grapes}')
